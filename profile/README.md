@@ -2,11 +2,11 @@
 
 ## Link Index:
 
-- (Main Site)[https://donskyblock.xyz]
+- [Main Site](https://donskyblock.xyz)
 
 ## Main Projects Currently:
 
- - (Dawn Client)[https://github.com/donskyblock/DawnClient]
+ - [Dawn Client](https://github.com/donskyblock/DawnClient)
 
- - (VTUBE Studio Rust)[https://github.com/donskyblock/VTubeStudio]
+ - [VTUBE Studio Rust](https://github.com/donskyblock/VTubeStudio)
 
