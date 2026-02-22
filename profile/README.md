@@ -30,10 +30,6 @@ A simple nice easy legit Hypixel Skyblock Client
 
 <div align="center">
 
-<!-- GitHub Stats -->
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=donskyblock&show_icons=true&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donskyblock&layout=compact" />
-
 <!-- Streak -->
 <img height="165" src="https://streak-stats.demolab.com?user=donskyblock" />
 
