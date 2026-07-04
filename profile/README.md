@@ -5,7 +5,7 @@
 
 ### I NO LONGER PRIMARILLY USE GITHUB AND USE A SELF HOSTED GIT SERVER
 
-### FIND ME AT (FORGEJO INSTANCE)[https://git.ojalt.xyz/don]
+### FIND ME AT [FORGEJO INSTANCE](https://git.ojalt.xyz/don)
 
 
 ## Thanks for reading!!!!
