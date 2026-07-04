@@ -1,36 +1,13 @@
+# Info
 
-<div align="center">
+## MIGRATION : 
 
-# Don
 
-[Main Site](https://donskyblock.xyz) •
-[Site Repo](https://github.com/donskyblock/donskyblock-site) •
-[OpenCom](https://github.com/donskyblock/OpenCom) •
-[Dawn Client](https://github.com/donskyblock/DawnClient) •
+### I NO LONGER PRIMARILLY USE GITHUB AND USE A SELF HOSTED GIT SERVER
 
-</div>
+### FIND ME AT (FORGEJO INSTANCE)[https://git.ojalt.xyz/don]
 
-## Links
 
-- **Main Site:** https://donskyblock.xyz  
-- **Site Repository:** https://github.com/donskyblock/donskyblock-site  
-- **My Dotfiles:** https://github.com/donskyblock/dotfiles
+## Thanks for reading!!!!
 
-## 🚀 Main Projects
-
-### OpenCom
-A simple nice open source communication platform
-➡️ Repo: https://github.com/donskyblock/OpenCom
-
-### Dawn Client
-A simple nice easy legit Hypixel Skyblock Client
-➡️ Repo: https://github.com/donskyblock/DawnClient
-
-## 📈 Commit Tracker
-
-<div align="center">
-
-<!-- Streak -->
-<img height="165" src="https://streak-stats.demolab.com?user=donskyblock" />
-
-</div>
+### Also some of my projects arent migrated so do feel free to view and read on here!
