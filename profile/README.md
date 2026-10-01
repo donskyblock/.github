@@ -1,13 +1,14 @@
-# Info
+## Donskyblock
 
-## MIGRATION : 
+**Note:**
+- I lowk got boared, and CBA to maintain my own git server anymore, so github is back atleast for the min. Shit i've been workin on over there will be migrated over next day or two
+
+- **Links**
+  - (Youtube)[https://www.youtube.com/@donsbmc]
+  - (Twitch)[htps://twitch.tv/donsbyt]
+  - (Personal Site)[https://donsb.xyz]
 
 
-### I NO LONGER PRIMARILLY USE GITHUB AND USE A SELF HOSTED GIT SERVER
+idk whats even going on atm lmfao
 
-### FIND ME AT [FORGEJO INSTANCE](https://git.ojalt.xyz/don)
-
-
-## Thanks for reading!!!!
-
-### Also some of my projects arent migrated so do feel free to view and read on here!
+[![GitHub Streak](https://streak-stats.demolab.com/?user=donskyblock)](https://git.io/streak-stats)
